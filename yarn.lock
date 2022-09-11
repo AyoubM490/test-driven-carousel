@@ -73,6 +73,13 @@
     eslint-visitor-keys "^2.1.0"
     semver "^6.3.0"
 
+"@babel/eslint-plugin@7.18.10":
+  version "7.18.10"
+  resolved "https://registry.yarnpkg.com/@babel/eslint-plugin/-/eslint-plugin-7.18.10.tgz#11f454b5d1aa64c42fcfd64abe93071c15ebea3c"
+  integrity sha512-iV1OZj/7eg4wZIcsVEkXS3MUWdhmpLsu2h+9Zr2ppywKWdCRs6VfjxbRzmHHYeurTizrrnaJ9ZkbO8KOv4lauQ==
+  dependencies:
+    eslint-rule-composer "^0.3.0"
+
 "@babel/generator@^7.19.0", "@babel/generator@^7.7.2":
   version "7.19.0"
   resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.19.0.tgz#785596c06425e59334df2ccee63ab166b738419a"
@@ -4380,6 +4387,11 @@ eslint-plugin-testing-library@^5.0.1:
   integrity sha512-//fhmCzopr8UDv5X2M3XMGxQ0j6KjKYZ+6PGqdV0woLiXTSTOAzuNsiTELGv883iCeUrYrnHhtObPXyiTMytVQ==
   dependencies:
     "@typescript-eslint/utils" "^5.13.0"
+
+eslint-rule-composer@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-rule-composer/-/eslint-rule-composer-0.3.0.tgz#79320c927b0c5c0d3d3d2b76c8b4a488f25bbaf9"
+  integrity sha512-bt+Sh8CtDmn2OajxvNO+BX7Wn4CIWMpTRm3MaiKPCQcnnlm0CS2mhui6QaoeQugs+3Kj2ESKEEGJUdVafwhiCg==
 
 eslint-scope@5.1.1, eslint-scope@^5.1.1:
   version "5.1.1"
